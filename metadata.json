@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PhotoMentor",
+  "description": "プロの写真家AIが、構図・照明・ポーズ・衣装を分析。甘口・中辛・辛口（アメとムチ）モードで、あなたの写真をレベルアップさせるアドバイスを提供します。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
